@@ -1,0 +1,14 @@
+mat-form-field{
+  display: block;
+}
+.container{
+  margin-top: 2rem;
+}
+.login-form{
+  width:50svh ;
+  flex: auto;
+  margin: auto;
+}
+mat-card-header{
+  margin-bottom: 2rem;
+}
